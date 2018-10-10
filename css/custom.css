@@ -1,0 +1,37 @@
+* {
+
+}
+
+.jumbo {
+  height: 500px;
+  /* background: red; */
+  background-image: url("../img/jumbo.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.red {
+  background: red;
+}
+
+#whoWeAre, #skills, #contact {
+  height: 700px;
+}
+
+.skills {
+  padding: 35px;
+}
+
+.skills--single {
+  background: white;
+  padding: 15px;
+  height: 100%;
+}
+
+.contact {
+
+}
+
+.footer {
+  height: 200px;
+}
